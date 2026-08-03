@@ -31,3 +31,24 @@ Data Quality Findings
 - Age Range: 18–95 years.
 - Balance Range: -8,019 to 102,127.
 - Negative balances appear to represent valid banking scenarios.
+
+### Phase 4 – Descriptive Statistics
+
+Completed descriptive statistical analysis for the following numerical variables:
+
+- Age
+- Balance
+- Duration
+- Campaign
+- Previous
+- Day
+
+For each variable, calculated:
+- Mean
+- Median
+- Mode
+- Minimum
+- Maximum
+- Standard Deviation
+
+Documented business interpretations for each statistical measure.
